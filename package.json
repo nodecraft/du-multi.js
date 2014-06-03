@@ -1,0 +1,11 @@
+{
+	"name":"du-multi",
+	"description": "Wrapper for linux du command. Used to list usage of folders of a directory.",
+	"author": "NodeCraft Hosting LLC <admin@getnodecraft.net> (http://getnodecraft.net)",
+	"version":"0.0.1",
+	"main": "du-multi.js",
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/nodecraft/du-multi.js.git"
+	}
+}
